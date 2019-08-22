@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MongoDBAnalyzer.Core/obj
+/MongoDBAnalyzer.Core/bin/Debug/netstandard2.0
+/MongoDBAnalyzer.ConsoleTest/obj
+/MongoDBAnalyzer.ConsoleTest/bin/Debug/netcoreapp2.1
+/.vs/MongoDBAnalyzer/v16/TestStore/0
+/.vs/MongoDBAnalyzer/v16/Server/sqlite3
